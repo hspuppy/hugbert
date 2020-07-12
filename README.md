@@ -12,4 +12,4 @@ My misc testing/tutorial/helper scripts for [Huggingface transformers](https://g
 
 ## Scripts
 
-* hf_model_downloader.py: given a model short name, list and/or download model files.
+* [hf_model_downloader.py](https://github.com/hspuppy/hugbert/blob/master/hf_model_downloader.py): given a model short name, list and/or download model files.
