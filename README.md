@@ -1,2 +1,4 @@
 # hugbert
-Hugging BERT together. Misc scripts for Huggingface transformers. 
+Let's hug BERT together. 
+
+Misc testing/tutorial/helper scripts for [Huggingface transformers](https://github.com/huggingface/transformers)
