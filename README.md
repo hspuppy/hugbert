@@ -9,7 +9,7 @@ My misc testing/tutorial/helper scripts for [Huggingface transformers](https://g
 * [【HugBert04】GLUE：BERT类模型的通用评估基准 - 知乎](https://zhuanlan.zhihu.com/p/151818251)
 * [【HugBert05】照猫画虎：理解from_pretrained，攒个模型下载器 - 知乎](https://zhuanlan.zhihu.com/p/158974273)
 * [【HugBert06】避虚击实：中文命名实体识别任务微调 - 知乎](https://zhuanlan.zhihu.com/p/164966421)
-* [【HugBert07】提纲挈领：中文文本摘要任务微调 - 知乎] https://zhuanlan.zhihu.com/p/168719940
+* [【HugBert07】提纲挈领：中文文本摘要任务微调 - 知乎](https://zhuanlan.zhihu.com/p/168719940)
 
 持续更新中。
 
