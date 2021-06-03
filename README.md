@@ -14,10 +14,12 @@ My misc testing/tutorial/helper scripts for [Huggingface transformers](https://g
 * [【HugBert09】邯郸学步：跟着曹公写《红楼》 - 知乎](https://zhuanlan.zhihu.com/p/350381270)
 * [【HugBert10】预训练语言模型的全家福 - 知乎](https://zhuanlan.zhihu.com/p/355238279)
 * [【HugBert11】聚沙成塔：关于tokenization（词元化）的解疑释惑 - 知乎](https://zhuanlan.zhihu.com/p/371300063)
+* [【HugBert12】短问答打分问题的BERT解决方案](https://zhuanlan.zhihu.com/p/377601751)
 
 持续更新中。
 
 ## Scripts
 
+* add a solution for kaggle competition asap-sas (Short Answer Scoring) based on BERT (21/6/3)
 * [hf_model_downloader.py](https://github.com/hspuppy/hugbert/blob/master/hf_model_downloader.py): given a model short name, list and/or download model files.
 * add ner_dataset folder, for some public Chinese NER data
