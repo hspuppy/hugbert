@@ -10,6 +10,10 @@ My misc testing/tutorial/helper scripts for [Huggingface transformers](https://g
 * [【HugBert05】照猫画虎：理解from_pretrained，攒个模型下载器 - 知乎](https://zhuanlan.zhihu.com/p/158974273)
 * [【HugBert06】避虚击实：中文命名实体识别任务微调 - 知乎](https://zhuanlan.zhihu.com/p/164966421)
 * [【HugBert07】提纲挈领：中文文本摘要任务微调 - 知乎](https://zhuanlan.zhihu.com/p/168719940)
+* [【HugBert08】牙牙学语：250行代码打造一个NeurIPS对话 竞赛冠军作品 - 知乎](https://zhuanlan.zhihu.com/p/212799619)
+* [【HugBert09】邯郸学步：跟着曹公写《红楼》 - 知乎](https://zhuanlan.zhihu.com/p/350381270)
+* [【HugBert10】预训练语言模型的全家福 - 知乎](https://zhuanlan.zhihu.com/p/355238279)
+* [【HugBert11】聚沙成塔：关于tokenization（词元化）的解疑释惑 - 知乎](https://zhuanlan.zhihu.com/p/371300063)
 
 持续更新中。
 
