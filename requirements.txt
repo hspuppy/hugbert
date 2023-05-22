@@ -1,2 +1,2 @@
 transformers==3.0.1
-requests==2.23.0
+requests==2.31.0
